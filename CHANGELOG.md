@@ -38,7 +38,7 @@
   赛博球色本身由 `pitchColor(pitch)` 实时计算，所以不同时间段/不同音符的球、环、弧线颜色都不同；
   光圈寿命回到 `RING_LIFE=1.8s`（离开槽位后暂留渐隐，形成多圈彩色拖尾）。
   追溯：`MusicScoreVisualizer.tsx pitchColor/staffColor/Ball/NoteRing` + `config.ts PRESETS.cyberpunk.aurora`；
-  参考片源项目 `D:\workBuddy\2026-10-23-12-43-27\marriage\project`。
+  参考片源：赛博朋克《梦中的婚礼》10s 版样片（源项目 `marriage`）。
 
 ### 修复
 - `render.mjs` 的 `--seg=16-26`（等号写法）此前被静默忽略，会渲整曲；现在空格与等号两种写法都识别。
