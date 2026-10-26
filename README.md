@@ -19,8 +19,12 @@ huige-music/
 ├── SKILL.md                        # 技能主文件：触发条件、快速开始、流水线、视觉规则
 ├── references/
 │   ├── pipeline-guide.md           # 制作规范：映射、运动模型、镜头、时间音频、验收清单
-│   └── pitfalls.md                 # 9 条实战踩坑（Verovio MIDI 反复展开、SVG 拼接漂移、
-│                                   #   灯光超限黑屏、SMF 二进制陷阱等，动手前必读）
+│   ├── pitfalls.md                 # 22 条实战踩坑（Verovio MIDI 反复展开、SVG 拼接漂移、
+│   │                               #   灯光超限黑屏、SMF 二进制陷阱等，动手前必读）
+│   ├── style-presets.md            # 三套画风的参数表与扩展方法
+│   ├── no-score-fallback.md        # 没曲谱时的音频转写方案
+│   ├── vocal-pipeline.md           # 流行歌人声双轨方案
+│   └── prompts.md                  # 提示词模板（简单版 / 详细版）
 └── assets/
     ├── music-score-starter/        # 完整可运行项目模板（README 见其目录内）
     ├── example-20s.mp4             # 20 秒效果示例（含音轨，960×540）
