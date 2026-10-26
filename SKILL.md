@@ -1,6 +1,6 @@
 ---
 name: huige-music
-description: "制作「发光小球在真实曲谱上跳跃演奏、镜头沿谱面滑行」的 3D 音乐动画视频（Remotion + React Three Fiber + Verovio）。当用户提供曲谱（MXL/MusicXML）、MIDI、音频，要求制作音符跳动/曲谱动画/音乐可视化视频，或要求换曲、调整该类动画（球、轨迹、镜头、亮度、和弦表现）时使用本技能。基于已验证的致爱丽丝全曲项目模板与踩坑清单。"
+description: "3D music animation from real sheet music — glowing balls hop across an engraved score while the camera glides along the page (Remotion + React Three Fiber + Verovio). 制作「发光小球在真实曲谱上跳跃演奏、镜头沿谱面滑行」的 3D 音乐动画视频（Remotion + React Three Fiber + Verovio）。当用户提供曲谱（MXL/MusicXML）、MIDI、音频，要求制作音符跳动/曲谱动画/音乐可视化视频，或要求换曲、调整该类动画（球、轨迹、镜头、亮度、和弦表现）时使用本技能。基于已验证的致爱丽丝全曲项目模板与踩坑清单。"
 agent_created: true
 ---
 

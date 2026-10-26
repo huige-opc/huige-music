@@ -2,6 +2,8 @@
 
 > 作者：辉哥 · 开源协议：MIT
 
+**3D music animation from real sheet music** — glowing balls hop across an engraved score while the camera glides along the page, rendered with Remotion + React Three Fiber + Verovio.
+
 「发光小球在真实曲谱上跳跃演奏、镜头沿谱面滑行」的 3D 音乐动画视频制作技能。基于已验证的贝多芬《致爱丽丝》全曲项目（1080p / 131 秒 / 905 音符全匹配）沉淀而成。
 
 ## 技能能做什么
@@ -54,3 +56,20 @@ npm run render -- --browser-executable="C:/Program Files/Google/Chrome/Applicati
 - Node.js 18+、npm、FFmpeg/FFprobe、Python 3（仅标准库脚本）
 - Chrome 或 Edge（渲染用本地浏览器，禁止下载 Chrome Headless Shell）
 - 可选：fluidsynth + 音源 .sf2（合成钢琴音轨用）
+
+## 许可证
+
+MIT
+
+---
+
+## 📮 联系
+
+有任何问题或建议，欢迎联系：
+
+- 微信：**HgAiAgent**（扫码添加，拉你进交流群）
+- 邮箱：[szlihui801@gmail.com](mailto:szlihui801@gmail.com)
+- 公众号：**辉哥AI**
+- GitHub：[huige-opc](https://github.com/huige-opc)
+
+如果这个项目对你有帮助，欢迎 star。
