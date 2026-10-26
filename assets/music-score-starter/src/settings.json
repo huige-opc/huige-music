@@ -1,0 +1,9 @@
+{
+  "fps": 30,
+  "introFrames": 5,
+  "scoreScale": 0.04,
+  "jumpStyle": "elastic",
+  "velocityResponse": true,
+  "landingRipple": true,
+  "preset": "classic"
+}

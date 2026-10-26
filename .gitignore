@@ -1,0 +1,25 @@
+# 运行产物（各曲目工程、渲染输出）
+projects/
+output/
+out/
+dist/
+build/
+.cache/
+
+# 依赖
+node_modules/
+
+# 回收站与备份
+.trash/
+*.bak
+*.orig
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
+.env
+.env.local
